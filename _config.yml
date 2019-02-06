@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+lang: en-US
 title: BitCubers
-email: singhshobhit2001@gmail.com
+email: singhshobhit2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Searching for cube solutions and review. You hopped into right place.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "bitcubers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: planeingatwick
-github_username:  ajax_711
+github_username:  ajax711
 
 # Build settings
 markdown: kramdown
