@@ -24,7 +24,7 @@ github_username:  ajax_711
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
 
