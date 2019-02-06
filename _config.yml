@@ -24,9 +24,10 @@ github_username:  ajax_711
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
