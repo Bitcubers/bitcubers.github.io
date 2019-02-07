@@ -15,7 +15,7 @@ I participated in some un-official comps since then but still haven't competed i
 Pretty consertive in the type of events I practise regularly.
 
 Personal Bests:
-  
+
 | Event     | Single | Average of 5 |
 |-----------|--------|--------------|
 | 3x3x3     |  17.61 |     26.83    |
@@ -33,3 +33,11 @@ Methods :
 Also a programmer and FOSS enthusiast.  
 
 
+
+## Sanshay Katyal
+
+I am not very much into speedcubing. I try to solve different cubes and shape mods.
+
+I have tried many mods of 3x3x3 like Mirror cube, Fisher cube, Windmill Cube, Axel Cube, Snake cube. Including 4x4x4 and 7x7x7. 
+
+I am also intro solving minxes like kilominx, Megaminx, Pyraminx, Pyramorphix.
