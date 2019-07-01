@@ -6,6 +6,6 @@ permalink: /about/
 
 ## Shobhit Singh
 
-* I try to learn things. 
+I try to learn things. 
 
 
