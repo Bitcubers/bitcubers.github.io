@@ -2,7 +2,7 @@
 layout: post
 title:  "Why 808's and Hearbreaks is the best Kanye album ever"
 date:   2019-07-02
-author: ajx
+author: shobhit
 categories: jekyll update
 ---
 
