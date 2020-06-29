@@ -1,6 +1,6 @@
 
 
-###### Abstract
+##### Abstract
 
 
 The restricted access to academic literature has been a topic of debate for the past
@@ -11,7 +11,7 @@ usefulness, and ethicality of publishing houses and present claims for unrestric
 access to academic literature.
 
 
-###### Methodology
+##### Methodology
 
 
 
@@ -21,7 +21,7 @@ Access Manifesto which was one of the founding works of literature on the modern
 iteration of the movement.
 
 
-###### Introduction
+##### Introduction
 
 
 Academic publishing is the subset of the publishing industry which deals with
@@ -44,7 +44,7 @@ questions and tries to present Open Access as a solution to the problems in the
 existing academic publishing system.
 
 
-###### The dirty economics of Academic Publishing
+##### The dirty economics of Academic Publishing
 
 Today, the majority of academic research is funded with government grants to the
 researchers and institutions and if you want to read the research paper that you
@@ -116,7 +116,7 @@ one (public) has to pay to access it while publisher gets the majority of the cr
 
 
 
-###### What is open access and why open access?
+##### What is open access and why open access?
 
 Open access here basically means free unrestricted access to publicly funded
 research. This means that researchers post the papers directly on a free database
@@ -147,17 +147,16 @@ are finding it hard to get access to the millions of paywalled coronavirus relat
 papers and studies which can potentially help in saving millions of lives.
 
 
-###### Open access has a greater impact
+##### Open access has a greater impact
 
 Studies have shown that open access research has a greater impact on the scientific
 community than its proprietary counterparts. Talking about physics, which was one of
-
-
 the first fields to adopt OA in the form of arxiv.org, In 1991, OA works were only 1% of
 the total published works were cited about two times more than that 99 % paid
 articles. The percentage of OA works in the field increased to 18% in 2001 when they
 cited ~5.5 times more than Non OA works. [16]
 
+![OA-Non OA Physics](/assets/1.png)
 In the field of computer science, an analysis of 119,924 articles in 2001 showed that
 the mean number of citations to online (free) articles is 7.03 while the mean number
 of citations to offline (paid) articles is 7.03. [17]
@@ -168,23 +167,19 @@ percentage of OA papers is only 17% in philosophy, 29% in political science, 37%
 Electronical engineering, the mean citations of OA papers in all these fields is greater
 than the mean citations of non OA papers. [18]
 
+![OA-Non OA Citation](/assets/2.png)
 OA gives free and easy access to academic literature as it is easily indexed by search
 engines like Google and ResearchGate.
-
 The publishing industry also exerts too much influence over what scientists choose to
-
 study. All they need is a steady stream of paper which has a broad audience. They do
-
 not want researchers exploring dead ends and niche topics that are not interesting to
 the general public which in the long run are very important to the development of the
-
 field. [19]. This results in headlines like "Eating popcorn increases your confidence" but
-
 the drug trial studies don't get published. [20]
 
 
 
-###### Conclusion
+##### Conclusion
 
 Publishing houses that were originally started with the intention of making academia
 accessible to scholars and researchers have become the real villains of the industry by
