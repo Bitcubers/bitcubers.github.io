@@ -1,4 +1,4 @@
-
+*I wrote this for my final term paper in college so its formatted very formally among other things*
 
 ##### Abstract
 
