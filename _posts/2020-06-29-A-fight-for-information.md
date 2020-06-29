@@ -1,29 +1,29 @@
-```
-Open Access or not: A fight for information
-```
-```
-Abstract
-```
-```
+
+
+###### Abstract
+
+
 The restricted access to academic literature has been a topic of debate for the past
 three decades. With the advent of the internet and all journals going digital, the
 business model and revenues changing, the ethicality of these big publishing houses
 have been questioned from time to time. In this paper, I try to analyze the economics,
 usefulness, and ethicality of publishing houses and present claims for unrestricted
 access to academic literature.
-```
-```
-Methodology
-```
-```
+
+
+###### Methodology
+
+
+
 The primary sources used are studies, research, and news articles which came in the
 wake of the Open Access Movement. It also features Aaron Swartz's Guerilla Open
 Access Manifesto which was one of the founding works of literature on the modern
 iteration of the movement.
-```
-```
-Introduction
-```
+
+
+###### Introduction
+
+
 Academic publishing is the subset of the publishing industry which deals with
 distributing academic research. The modern era of academic publishing started when
 the British government paired Butterworth's (traditional British publisher) with
@@ -43,9 +43,9 @@ houses and should they even exist in the first place? This paper explores these
 questions and tries to present Open Access as a solution to the problems in the
 existing academic publishing system.
 
-```
-The dirty economics of Academic Publishing
-```
+
+###### The dirty economics of Academic Publishing
+
 Today, the majority of academic research is funded with government grants to the
 researchers and institutions and if you want to read the research paper that you
 funded with your tax paying money, you still need to shell out big bucks. On Elsevier,
@@ -115,9 +115,9 @@ publishing house does and two (author and editor) of them don't get paid and ano
 one (public) has to pay to access it while publisher gets the majority of the cream.
 
 
-```
-What is open access and why open access?
-```
+
+###### What is open access and why open access?
+
 Open access here basically means free unrestricted access to publicly funded
 research. This means that researchers post the papers directly on a free database
 such as arXiv instead of going through big publishing houses. OA isn’t an attempt to
@@ -146,9 +146,9 @@ The latest argument for open access came about with the pandemic when researcher
 are finding it hard to get access to the millions of paywalled coronavirus related
 papers and studies which can potentially help in saving millions of lives.
 
-```
-Open access has a greater impact
-```
+
+###### Open access has a greater impact
+
 Studies have shown that open access research has a greater impact on the scientific
 community than its proprietary counterparts. Talking about physics, which was one of
 
@@ -183,9 +183,9 @@ field. [19]. This results in headlines like "Eating popcorn increases your confi
 the drug trial studies don't get published. [20]
 
 
-```
-Conclusion
-```
+
+###### Conclusion
+
 Publishing houses that were originally started with the intention of making academia
 accessible to scholars and researchers have become the real villains of the industry by
 keeping the publicly funded research from the people who funded it. The business
@@ -200,98 +200,51 @@ share the literature with people not privileged enough to afford the humongous c
 associated with it. So to promote science, we should adopt Open Access as a means of
 scientific communication.
 
-References
 
-1. (Buranyi, S., 2017. Is the staggeringly profitable business of scientific publishing bad
 
-for science?. Gaurdian, [online] Available at:
 
-<https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-
 
-publishing-bad-for-science> [Accessed 1 June 2020].)
+References : 
+
+1. (Buranyi, S., 2017. Is the staggeringly profitable business of scientific publishing bad for science?. Gaurdian, [online] Available at: <https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science> [Accessed 1 June 2020].)
 
 2. (https://www.elsevier.com/books-and-journals/journal-pricing/print-price-list)
 
+3. Bergstrom, Theodore C et al. “Evaluating big deal journal bundles.” Proceedings of the National Academy of Sciences of the United States of America vol. 111,26 (2014):9425-30. doi:10.1073/pnas.
 
-3. Bergstrom, Theodore C et al. “Evaluating big deal journal bundles.” Proceedings of
-
-the National Academy of Sciences of the United States of America vol. 111,26 (2014):
-
-9425-30. doi:10.1073/pnas.
-
-4. Ware, M.; Mabe, M. The STM Report: An Overview of Scientific and Scholarly Journal
-
-Publishing; International Association of Scientific, Technical and Medical Publishers:
-
-The Hague, The Netherlands, 2015.
+4. Ware, M.; Mabe, M. The STM Report: An Overview of Scientific and Scholarly Journal Publishing; International Association of Scientific, Technical and Medical Publishers: The Hague, The Netherlands, 2015.
 
 5. “Facebook Profit Margin 2009-2020: FB.” Macrotrends,
 [http://www.macrotrends.net/stocks/charts/FB/facebook/profit-margins.](http://www.macrotrends.net/stocks/charts/FB/facebook/profit-margins.) [Accessed 1 June 2020]
 
-# 6. “Google Profit Margin 2009-2020: FB.” Macrotrends, https://www.macrotrends.net/stocks/
+6. “Google Profit Margin 2009-2020: FB.” Macrotrends, https://www.macrotrends.net/stocks/charts/GOOG/alphabet/profit-margins [Accessed 1 June 2020]
 
-# charts/GOOG/alphabet/profit-margins [Accessed 1 June 2020]
+7. “Apple Profit Margin 2009-2020: FB.” Macrotrends,https://www.macrotrends.net/stocks/charts/AAPL/apple/profit-margins. [Accessed1 June 2020]
 
-7. “Apple Profit Margin 2009-2020: FB.”
+8. “Amazon Profit Margin 2009-2020: FB.” Macrotrends, (https://www.macrotrends.net/stocks/charts/AMZN/amazon/profit-margins). [Accessed 1 June2020]
 
-# Macrotrends,https://www.macrotrends.net/stocks/charts/AAPL/apple/profit-margins. [Accessed
+9. “Pfizer Profit Margin 2009-2020: FB.” Macrotrends,(https://www.macrotrends.net/stocks/charts/PFE/pfizer/profit-margins). [Accessed 1 June 2020]
 
-1 June 2020]
+10. Ferguson, C., Marcus, A. & Oransky, I., 2014. Publishing: The peer-review scam. [Online] Available at: https://www.nature.com/news/publishing-the-peer-review-scam-1.16400[Accessed May 2020].
 
-8. “Amazon Profit Margin 2009-2020: FB.” Macrotrends,
+11. iansample, 2012. Harvard University says it can't afford journal publishers' prices. Gaurdian [Online] Available at: https://www.theguardian.com/science/2012/apr/24/harvard-university- journal-publishers-prices [Accessed May 2020].
 
-# (https://www.macrotrends.net/stocks/charts/AMZN/amazon/profit-margins). [Accessed 1 June
-
-## 2020]
-
-9. “Pfizer Profit Margin 2009-2020: FB.” Macrotrends,
-
-# (https://www.macrotrends.net/stocks/charts/PFE/pfizer/profit-margins). [Accessed 1 June 2020]
-
-10. Ferguson, C., Marcus, A. & Oransky, I., 2014. Publishing: The peer-review scam.
-[Online] Available at: https://www.nature.com/news/publishing-the-peer-review-scam-
-
-1.16400[Accessed May 2020].
-
-11. iansample, 2012. Harvard University says it can't afford journal publishers' prices.
-
-Gaurdian [Online] Available at: https://www.theguardian.com/science/2012/apr/24/harvard-
-university- journal-publishers-prices [Accessed May 2020].
-
-12. Larivière V, Haustein S, Mongeon P (2015) The Oligopoly of Academic Publishers in
-
-the Digital Era. PLoS ONE 10(6): e0127502.
-https://doi.org/10.1371/journal.pone.
+12. Larivière V, Haustein S, Mongeon P (2015) The Oligopoly of Academic Publishers inhe Digital Era. PLoS ONE 10(6): e0127502. https://doi.org/10.1371/journal.pone.
 
 13. Suber, P. (2012). Open access. (p.44)
+
 14. Suber, P. (2012). Open access. (p.46)
-15. Swartz, Aaron Guerilla Open Access Manifesto. Retrieved from [http://cryptome.org/](http://cryptome.org/)
 
-2013/01/swartz-open-access.htm [Accessed May 2020]
+15. Swartz, Aaron Guerilla Open Access Manifesto. Retrieved from [http://cryptome.org/](http://cryptome.org/) 2013/01/swartz-open-access.htm [Accessed May 2020]
 
-16. Stevan Harnad and Tim Brody, “Comparing the Impact of Open Access (OA) vs.
-
-Non-OA Articles in the Same Journals,” D-Lib Magazine 10 (June 2004).
+16. Stevan Harnad and Tim Brody, “Comparing the Impact of Open Access (OA) vs. Non-OA Articles in the Same Journals,” D-Lib Magazine 10 (June 2004).
 [http://www.dlib.org/dlib/june04/harnad/06harnad.html.](http://www.dlib.org/dlib/june04/harnad/06harnad.html.)
 
-17. Lawrence, S. Free online availability substantially increases a paper's
+17. Lawrence, S. Free online availability substantially increases a paper's impact. Nature 411, 521 (2001). https://doi.org/10.1038/
 
-impact. Nature 411, 521 (2001). https://doi.org/10.1038/
+18. Antelman, K. (2004). Do Open-Access Articles Have a Greater Research Impact? College & Research Libraries, 65(5), 372–382. doi: 10.5860/crl.65.5.
 
-18. Antelman, K. (2004). Do Open-Access Articles Have a Greater Research Impact?
+19. (Buranyi, S., 2017. Is the staggeringly profitable business of scientific publishing bad for science?. Gaurdian, [online] Available at:
+<https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-scienhce> [Accessed 1 June 2020].)
 
-College & Research Libraries, 65(5), 372–382. doi: 10.5860/crl.65.5.
-
-
-19. (Buranyi, S., 2017. Is the staggeringly profitable business of scientific publishing
-
-bad for science?. Gaurdian, [online] Available at:
-
-<https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-
-publishing-bad-for-scienhce> [Accessed 1 June 2020].)
-
-20. Lane, S, 2013.Why the data on all drug trials must be released. Guardian, [online]
-
-Available at :https://www.theguardian.com/commentisfree/2013/sep/17/drug-trials-
-
-data-released[Accessed 31 May 2020]
+20. Lane, S, 2013.Why the data on all drug trials must be released. Guardian, [online] Available at :https://www.theguardian.com/commentisfree/2013/sep/17/drug-trials-data-released[Accessed 31 May 2020]
