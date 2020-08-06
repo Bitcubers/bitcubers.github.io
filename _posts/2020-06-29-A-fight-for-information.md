@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "A fight for information"
+date:   2020-06-29
+author: shobhit
+categories: jekyll update
+---
+
+
 *I wrote this for my final term paper in college so its formatted very formally among other things*
 
 ##### Abstract
