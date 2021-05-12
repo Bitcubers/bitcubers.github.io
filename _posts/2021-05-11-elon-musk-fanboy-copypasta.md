@@ -26,15 +26,26 @@ A country where white people earn nearly THREE times the average wage made by bl
 This is the point which pisses me off most. Elon Musk is not some “inventor”. He is also just like any other capitalist who rakes off billions from the inventions of his unpaid interns. He himself hasn’t invented anything new, rather commodified and capitalised off the inventions of others. 
 
 https://www.vox.com/identities/2019/9/30/20891314/elon-musk-tesla-labor-violation-nlrb?__c=1 
+
 https://www.theguardian.com/technology/2018/sep/10/tesla-workers-union-elon-musk
+
 https://www.theguardian.com/technology/2017/may/18/tesla-workers-factory-conditions-elon-musk
+
 https://www.peoplesworld.org/article/elon-musks-tesla-cars-of-the-future-with-labor-practices-from-the-past/
+
 https://peoplesworld.org/article/after-bolivia-elon-musk-says-capitalists-can-overthrow-any-government-they-want/
+
 https://www.wired.com/story/elon-musk-tesla-life-inside-gigafactory/
+
 https://www.lifegate.com/cobalt-mining-congo-tech-lawsuit
+
 https://www.peoplesworld.org/article/elon-musks-compensation-is-40000-times-more-than-average-tesla-worker/
+
 https://www.businessinsider.com/elon-musks-dad-tells-bi-about-the-familys-casual-attitude-to-wealth-2018-2?IR=T
+
 https://www.businessinsider.co.za/elon-musk-sells-the-family-emeralds-in-new-york-2018-2
+
 https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2
+
 https://www.rt.com/news/495820-musk-coup-bolivia-lithium-tesla/ 
 
